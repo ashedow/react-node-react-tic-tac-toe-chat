@@ -11,7 +11,7 @@ This is game for two players, who take turns marking the spaces in? for example,
 [In detail](http://lmgtfy.com/?q=tic+tac+toe+rules)
 
 
-##Technologies used:
+## Technologies used:
 
 * NodeJS
 * ReactJS
