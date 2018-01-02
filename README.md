@@ -23,4 +23,4 @@ This is game for two players, who take turns marking the spaces in? for example,
 * Install NodeJS, if it not installed yet.
 * npm install
 * npm start
-* Go to http://localhost:3000 to view the game.
+* Go to http://localhost:8080 to view the game.
