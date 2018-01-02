@@ -108,7 +108,7 @@ class App extends React.Component {
 			else 
 				return <div className="right" key={index}>Opposite: {msg.message} </div> ;
 		} );
-		var strpath=" http://localhost:3000/"+this.socket.io.engine.id;
+		var strpath=" http://localhost:8080/"+this.socket.io.engine.id;
 		var label;
 		var content;
 		switch(this.state.winner){
