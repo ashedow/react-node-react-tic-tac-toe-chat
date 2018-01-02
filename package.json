@@ -1,11 +1,8 @@
 {
-  "name": "react_chat",
-  "version": "0.0.1",
+  "name": "tic-tac-toe-react_chat",
+  "version": "1.0.0",
   "devDependencies": {
     "express": "^4.16.2",
     "socket.io": "^1.5.0"
-  },
-  "dependencies": {
-    "react": "^16.2.0"
   }
 }
