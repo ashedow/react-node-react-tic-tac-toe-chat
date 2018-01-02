@@ -15,12 +15,7 @@ html, body{
   justify-content: center;
   align-items: space-around;
   font-size: 2.8vw;
-  text-align: center;
-  opacity: 0;
-  transition: opacity 0.9s;
-  -moz-transition: opacity 0.9s;
-  -webkit-transition: opacity 0.9s;
-  -o-transition: opacity 0.9s;        
+  text-align: center;     
 }
 
 .app-container{

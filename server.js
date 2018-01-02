@@ -2,12 +2,12 @@
 var express = require('express'),
 		app = express(),
 		http = require('http');
-		
+
 const PORT = process.env.PORT || 3000;
 const INDEX = __dirname + '/app/index.html';
 var server = http.createServer(app);
 var io = require('socket.io').listen(server);
-
+//Start server
 server.listen(PORT, () => { console.log("Server starts on http://localhost:"+ PORT+" !")});  
 
 io.on('connection', (socket)=> {
