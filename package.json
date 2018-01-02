@@ -1,8 +1,24 @@
 {
-  "name": "tic-tac-toe-react_chat",
+  "name": "tic-tac-toe-react-chat",
   "version": "1.0.0",
+  "description": "test for ForaSoft",
   "devDependencies": {
     "express": "^4.16.2",
     "socket.io": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpqDnF/react-node-react-tic-tac-toe-chat.git"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "chat",
+    "react",
+    "socket.io"
+  ],
+  "author": "ya_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpqDnF/react-node-react-tic-tac-toe-chat/issues"
   }
 }

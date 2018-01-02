@@ -62,6 +62,7 @@ io.on('connection', (socket)=> {
 				 socket.leave(room);
 		 };
 	})
+	//Sending 
 	socket.on('new-message', (msg)=> {
 		io.to(room_name).emit('receive-message',msg); 
 	});
