@@ -23,3 +23,5 @@ This is game for two players, who take turns marking the spaces in? for example,
 * npm install
 * npm start
 * Go to http://localhost:8080 to play.
+
+####### But it app must be rewrite. :/
