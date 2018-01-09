@@ -24,4 +24,5 @@ This is game for two players, who take turns marking the spaces in? for example,
 * npm start
 * Go to http://localhost:8080 to play.
 
-####### But it app must be rewrite. :/
+_But it app must be rewrite. :/_
+_At least couse I find that miss the point with music just 09.01 by day. And this point does not define certainly_
